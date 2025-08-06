@@ -16,3 +16,7 @@ This Tableau dashboard presents a detailed analysis of car sales data from 2020 
 - **Excel**
 
 ---
+## How to Use
+1. Download or clone the repository
+2. Open the .twbx (Tableau Workbook) file in Tableau Desktop
+3. Ensure your data source is connected or update it if needed
