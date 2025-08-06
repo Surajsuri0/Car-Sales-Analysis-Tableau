@@ -47,6 +47,18 @@ This Tableau dashboard presents a detailed analysis of car sales data from 2020 
 
 10. What is the customer purchase trend over different age groups or income segments?
 
+    
+---
+## Process
+The Car Sales Analysis project began with collecting and cleaning the dataset to ensure data accuracy and consistency. The cleaned data was then imported into Tableau, where exploratory data analysis was performed to understand patterns and relationships. Using this analysis, interactive dashboards were created to visualize key metrics such as sales by brand, model, year, and region. These visualizations helped uncover trends and insights that can support strategic decision-making in the automobile sales domain.
+
+---
+## Dashboard Screenshot
+<img width="1387" height="778" alt="Car Sales Dashboard" src="https://github.com/user-attachments/assets/25848072-72d5-44d1-b578-728fa11e3458" />
+
+---
+## Final Conclusion
+The Car Sales Analysis project provided valuable insights into sales performance across various brands, models, and regions. By leveraging Tableau's powerful visualization tools, the data was transformed into interactive dashboards that highlighted key trends, such as top-performing car brands, peak sales periods, and regional preferences. These insights can help stakeholders make informed decisions to optimize inventory, improve marketing strategies, and enhance overall sales performance.
 
 
 
